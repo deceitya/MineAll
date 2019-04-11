@@ -1,0 +1,9 @@
+name: MineAll
+main: deceitya\mineall\MineAllPlugin
+version: 1.0.0
+api: [3.7.0]
+
+load: POSTWORLD
+author: deceitya
+description: 炭鉱夫用拡張機能
+website: https://github.com/deceitya/MineAll
